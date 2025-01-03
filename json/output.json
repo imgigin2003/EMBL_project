@@ -1,0 +1,154 @@
+
+{"id":"HG315671","labels":["Contig"],"properties":{"annotations":{},"id":"HG315671","name":"Flavobacteriaceae; Formosa.","organism":"Flavobacteriaceae; Formosa."},"type":"node"}
+{"id":"HG315671_0","labels":["Lead"],"properties":{"name":"source","organism":"Flavobacteriaceae; Formosa.","type":"source"},"type":"node"}
+{"end":{"id":"HG315671_0","labels":["Lead"]},"id":"HG315671_r_0","label":"OWNS","start":{"id":"HG315671","labels":["Contig"]},"type":"relationship"}
+{"id":"HG315671_1","labels":["Gene"],"properties":{"name":"/organism=\"Formosa","organism":"Flavobacteriaceae; Formosa.","type":"/organism=\"Formosa"},"type":"node"}
+{"end":{"id":"HG315671_1","labels":["Gene"]},"id":"HG315671_r_1","label":"NEXT","start":{"id":"HG315671_0","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_2","labels":["Gene"],"properties":{"name":"/strain=\"type","organism":"Flavobacteriaceae; Formosa.","type":"/strain=\"type"},"type":"node"}
+{"end":{"id":"HG315671_2","labels":["Gene"]},"id":"HG315671_r_2","label":"NEXT","start":{"id":"HG315671_1","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_3","labels":["Gene"],"properties":{"name":"/mol_type=\"genomic","organism":"Flavobacteriaceae; Formosa.","type":"/mol_type=\"genomic"},"type":"node"}
+{"end":{"id":"HG315671_3","labels":["Gene"]},"id":"HG315671_r_3","label":"NEXT","start":{"id":"HG315671_2","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_4","labels":["Gene"],"properties":{"name":"/db_xref=\"taxon:1347342\"","organism":"Flavobacteriaceae; Formosa.","type":"/db_xref=\"taxon:1347342\""},"type":"node"}
+{"end":{"id":"HG315671_4","labels":["Gene"]},"id":"HG315671_r_4","label":"NEXT","start":{"id":"HG315671_3","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_5","labels":["Gene"],"properties":{"name":"/culture_collection=\"KMM:3901\"","organism":"Flavobacteriaceae; Formosa.","type":"/culture_collection=\"KMM:3901\""},"type":"node"}
+{"end":{"id":"HG315671_5","labels":["Gene"]},"id":"HG315671_r_5","label":"NEXT","start":{"id":"HG315671_4","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_6","labels":["Gene"],"properties":{"name":"CDS","organism":"Flavobacteriaceae; Formosa.","type":"CDS"},"type":"node"}
+{"end":{"id":"HG315671_6","labels":["Gene"]},"id":"HG315671_r_6","label":"NEXT","start":{"id":"HG315671_5","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_7","labels":["Gene"],"properties":{"name":"/codon_start=1","organism":"Flavobacteriaceae; Formosa.","type":"/codon_start=1"},"type":"node"}
+{"end":{"id":"HG315671_7","labels":["Gene"]},"id":"HG315671_r_7","label":"NEXT","start":{"id":"HG315671_6","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_8","labels":["Gene"],"properties":{"name":"/transl_table=11","organism":"Flavobacteriaceae; Formosa.","type":"/transl_table=11"},"type":"node"}
+{"end":{"id":"HG315671_8","labels":["Gene"]},"id":"HG315671_r_8","label":"NEXT","start":{"id":"HG315671_7","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_9","labels":["Gene"],"properties":{"name":"/locus_tag=\"BN863_10\"","organism":"Flavobacteriaceae; Formosa.","type":"/locus_tag=\"BN863_10\""},"type":"node"}
+{"end":{"id":"HG315671_9","labels":["Gene"]},"id":"HG315671_r_9","label":"NEXT","start":{"id":"HG315671_8","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_10","labels":["Gene"],"properties":{"name":"/product=\"lipoprotein","organism":"Flavobacteriaceae; Formosa.","type":"/product=\"lipoprotein"},"type":"node"}
+{"end":{"id":"HG315671_10","labels":["Gene"]},"id":"HG315671_r_10","label":"NEXT","start":{"id":"HG315671_9","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_11","labels":["Gene"],"properties":{"name":"protein","organism":"Flavobacteriaceae; Formosa.","type":"protein"},"type":"node"}
+{"end":{"id":"HG315671_11","labels":["Gene"]},"id":"HG315671_r_11","label":"NEXT","start":{"id":"HG315671_10","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_12","labels":["Gene"],"properties":{"name":"/db_xref=\"EnsemblGenomes-Gn:BN863_10\"","organism":"Flavobacteriaceae; Formosa.","type":"/db_xref=\"EnsemblGenomes-Gn:BN863_10\""},"type":"node"}
+{"end":{"id":"HG315671_12","labels":["Gene"]},"id":"HG315671_r_12","label":"NEXT","start":{"id":"HG315671_11","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_13","labels":["Gene"],"properties":{"name":"/db_xref=\"EnsemblGenomes-Tr:CDF77713\"","organism":"Flavobacteriaceae; Formosa.","type":"/db_xref=\"EnsemblGenomes-Tr:CDF77713\""},"type":"node"}
+{"end":{"id":"HG315671_13","labels":["Gene"]},"id":"HG315671_r_13","label":"NEXT","start":{"id":"HG315671_12","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_14","labels":["Gene"],"properties":{"name":"/db_xref=\"GOA:T2KH40\"","organism":"Flavobacteriaceae; Formosa.","type":"/db_xref=\"GOA:T2KH40\""},"type":"node"}
+{"end":{"id":"HG315671_14","labels":["Gene"]},"id":"HG315671_r_14","label":"NEXT","start":{"id":"HG315671_13","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_15","labels":["Gene"],"properties":{"name":"/db_xref=\"UniProtKB/TrEMBL:T2KH40\"","organism":"Flavobacteriaceae; Formosa.","type":"/db_xref=\"UniProtKB/TrEMBL:T2KH40\""},"type":"node"}
+{"end":{"id":"HG315671_15","labels":["Gene"]},"id":"HG315671_r_15","label":"NEXT","start":{"id":"HG315671_14","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_16","labels":["Gene"],"properties":{"name":"/protein_id=\"CDF77713.1\"","organism":"Flavobacteriaceae; Formosa.","type":"/protein_id=\"CDF77713.1\""},"type":"node"}
+{"end":{"id":"HG315671_16","labels":["Gene"]},"id":"HG315671_r_16","label":"NEXT","start":{"id":"HG315671_15","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_17","labels":["Gene"],"properties":{"name":"/translation=\"MNFPLYIAKRYLRSKSSNNAINFITIIAAIGVILGAASLFIVLSG","organism":"Flavobacteriaceae; Formosa.","type":"/translation=\"MNFPLYIAKRYLRSKSSNNAINFITIIAAIGVILGAASLFIVLSG"},"type":"node"}
+{"end":{"id":"HG315671_17","labels":["Gene"]},"id":"HG315671_r_17","label":"NEXT","start":{"id":"HG315671_16","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_18","labels":["Gene"],"properties":{"name":"FSGLKVFTLQFSSIIDPDLKAVPKSGKSFMLSSSQFKAMNNLDGVASYSKIIEERVILA","organism":"Flavobacteriaceae; Formosa.","type":"FSGLKVFTLQFSSIIDPDLKAVPKSGKSFMLSSSQFKAMNNLDGVASYSKIIEERVILA"},"type":"node"}
+{"end":{"id":"HG315671_18","labels":["Gene"]},"id":"HG315671_r_18","label":"NEXT","start":{"id":"HG315671_17","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_19","labels":["Gene"],"properties":{"name":"YDGKNFPAFIKGVDENYNQVNAIDSVIIQGSWLRPNTDQMVAGWGVSNHLSLGVLDYGK","organism":"Flavobacteriaceae; Formosa.","type":"YDGKNFPAFIKGVDENYNQVNAIDSVIIQGSWLRPNTDQMVAGWGVSNHLSLGVLDYGK"},"type":"node"}
+{"end":{"id":"HG315671_19","labels":["Gene"]},"id":"HG315671_r_19","label":"NEXT","start":{"id":"HG315671_18","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_20","labels":["Gene"],"properties":{"name":"SVTIYVPKPGTGQITSTKSAFNAIHCVNVGLFDINESLNETYIYTAFEKSRELLSYKQN","organism":"Flavobacteriaceae; Formosa.","type":"SVTIYVPKPGTGQITSTKSAFNAIHCVNVGLFDINESLNETYIYTAFEKSRELLSYKQN"},"type":"node"}
+{"end":{"id":"HG315671_20","labels":["Gene"]},"id":"HG315671_r_20","label":"NEXT","start":{"id":"HG315671_19","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_21","labels":["Gene"],"properties":{"name":"QVSALEFKLNPNIDEDLIKPQLQAILGESVLIKNRVQLNDALYKMLNTENLAVYLIFTL","organism":"Flavobacteriaceae; Formosa.","type":"QVSALEFKLNPNIDEDLIKPQLQAILGESVLIKNRVQLNDALYKMLNTENLAVYLIFTL"},"type":"node"}
+{"end":{"id":"HG315671_21","labels":["Gene"]},"id":"HG315671_r_21","label":"NEXT","start":{"id":"HG315671_20","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_22","labels":["Gene"],"properties":{"name":"VLIIALFNVIGSIVMMILDKKKTLSTLYKLGASVKDIRRIFFFQGSLMSIFGGIVGLIL","organism":"Flavobacteriaceae; Formosa.","type":"VLIIALFNVIGSIVMMILDKKKTLSTLYKLGASVKDIRRIFFFQGSLMSIFGGIVGLIL"},"type":"node"}
+{"end":{"id":"HG315671_22","labels":["Gene"]},"id":"HG315671_r_22","label":"NEXT","start":{"id":"HG315671_21","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_23","labels":["Gene"],"properties":{"name":"GLIIVGLQQAFSLVMITPSLPYPVAITIPNIIVVLLTISVLGIIASKIASVRISKSLIK","organism":"Flavobacteriaceae; Formosa.","type":"GLIIVGLQQAFSLVMITPSLPYPVAITIPNIIVVLLTISVLGIIASKIASVRISKSLIK"},"type":"node"}
+{"end":{"id":"HG315671_23","labels":["Gene"]},"id":"HG315671_r_23","label":"NEXT","start":{"id":"HG315671_22","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_24","labels":["Gene"],"properties":{"name":"TI\"","organism":"Flavobacteriaceae; Formosa.","type":"TI\""},"type":"node"}
+{"end":{"id":"HG315671_24","labels":["Gene"]},"id":"HG315671_r_24","label":"NEXT","start":{"id":"HG315671_23","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_25","labels":["Gene"],"properties":{"name":"CDS","organism":"Flavobacteriaceae; Formosa.","type":"CDS"},"type":"node"}
+{"end":{"id":"HG315671_25","labels":["Gene"]},"id":"HG315671_r_25","label":"NEXT","start":{"id":"HG315671_24","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_26","labels":["Gene"],"properties":{"name":"/codon_start=1","organism":"Flavobacteriaceae; Formosa.","type":"/codon_start=1"},"type":"node"}
+{"end":{"id":"HG315671_26","labels":["Gene"]},"id":"HG315671_r_26","label":"NEXT","start":{"id":"HG315671_25","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_27","labels":["Gene"],"properties":{"name":"/transl_table=11","organism":"Flavobacteriaceae; Formosa.","type":"/transl_table=11"},"type":"node"}
+{"end":{"id":"HG315671_27","labels":["Gene"]},"id":"HG315671_r_27","label":"NEXT","start":{"id":"HG315671_26","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_28","labels":["Gene"],"properties":{"name":"/locus_tag=\"BN863_20\"","organism":"Flavobacteriaceae; Formosa.","type":"/locus_tag=\"BN863_20\""},"type":"node"}
+{"end":{"id":"HG315671_28","labels":["Gene"]},"id":"HG315671_r_28","label":"NEXT","start":{"id":"HG315671_27","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_29","labels":["Gene"],"properties":{"name":"/product=\"ribosome-binding","organism":"Flavobacteriaceae; Formosa.","type":"/product=\"ribosome-binding"},"type":"node"}
+{"end":{"id":"HG315671_29","labels":["Gene"]},"id":"HG315671_r_29","label":"NEXT","start":{"id":"HG315671_28","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_30","labels":["Gene"],"properties":{"name":"/db_xref=\"EnsemblGenomes-Gn:BN863_20\"","organism":"Flavobacteriaceae; Formosa.","type":"/db_xref=\"EnsemblGenomes-Gn:BN863_20\""},"type":"node"}
+{"end":{"id":"HG315671_30","labels":["Gene"]},"id":"HG315671_r_30","label":"NEXT","start":{"id":"HG315671_29","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_31","labels":["Gene"],"properties":{"name":"/db_xref=\"EnsemblGenomes-Tr:CDF77714\"","organism":"Flavobacteriaceae; Formosa.","type":"/db_xref=\"EnsemblGenomes-Tr:CDF77714\""},"type":"node"}
+{"end":{"id":"HG315671_31","labels":["Gene"]},"id":"HG315671_r_31","label":"NEXT","start":{"id":"HG315671_30","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_32","labels":["Gene"],"properties":{"name":"/db_xref=\"GOA:T2KIB0\"","organism":"Flavobacteriaceae; Formosa.","type":"/db_xref=\"GOA:T2KIB0\""},"type":"node"}
+{"end":{"id":"HG315671_32","labels":["Gene"]},"id":"HG315671_r_32","label":"NEXT","start":{"id":"HG315671_31","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_33","labels":["Gene"],"properties":{"name":"/db_xref=\"InterPro:IPR000238\"","organism":"Flavobacteriaceae; Formosa.","type":"/db_xref=\"InterPro:IPR000238\""},"type":"node"}
+{"end":{"id":"HG315671_33","labels":["Gene"]},"id":"HG315671_r_33","label":"NEXT","start":{"id":"HG315671_32","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_34","labels":["Gene"],"properties":{"name":"/db_xref=\"InterPro:IPR015946\"","organism":"Flavobacteriaceae; Formosa.","type":"/db_xref=\"InterPro:IPR015946\""},"type":"node"}
+{"end":{"id":"HG315671_34","labels":["Gene"]},"id":"HG315671_r_34","label":"NEXT","start":{"id":"HG315671_33","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_35","labels":["Gene"],"properties":{"name":"/db_xref=\"InterPro:IPR023799\"","organism":"Flavobacteriaceae; Formosa.","type":"/db_xref=\"InterPro:IPR023799\""},"type":"node"}
+{"end":{"id":"HG315671_35","labels":["Gene"]},"id":"HG315671_r_35","label":"NEXT","start":{"id":"HG315671_34","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_36","labels":["Gene"],"properties":{"name":"/db_xref=\"UniProtKB/TrEMBL:T2KIB0\"","organism":"Flavobacteriaceae; Formosa.","type":"/db_xref=\"UniProtKB/TrEMBL:T2KIB0\""},"type":"node"}
+{"end":{"id":"HG315671_36","labels":["Gene"]},"id":"HG315671_r_36","label":"NEXT","start":{"id":"HG315671_35","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_37","labels":["Gene"],"properties":{"name":"/protein_id=\"CDF77714.1\"","organism":"Flavobacteriaceae; Formosa.","type":"/protein_id=\"CDF77714.1\""},"type":"node"}
+{"end":{"id":"HG315671_37","labels":["Gene"]},"id":"HG315671_r_37","label":"NEXT","start":{"id":"HG315671_36","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_38","labels":["Gene"],"properties":{"name":"/translation=\"MESNRQKKIGSVLQRDLVDVLQNAATQGGMKGILISVSKVNVTVD","organism":"Flavobacteriaceae; Formosa.","type":"/translation=\"MESNRQKKIGSVLQRDLVDVLQNAATQGGMKGILISVSKVNVTVD"},"type":"node"}
+{"end":{"id":"HG315671_38","labels":["Gene"]},"id":"HG315671_r_38","label":"NEXT","start":{"id":"HG315671_37","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_39","labels":["Gene"],"properties":{"name":"LSIAKVYLSIFPNDKAKELLVGIRSNTPLIRHELAQRTKHQLRRMPNLEFFVDDSLEYI","organism":"Flavobacteriaceae; Formosa.","type":"LSIAKVYLSIFPNDKAKELLVGIRSNTPLIRHELAQRTKHQLRRMPNLEFFVDDSLEYI"},"type":"node"}
+{"end":{"id":"HG315671_39","labels":["Gene"]},"id":"HG315671_r_39","label":"NEXT","start":{"id":"HG315671_38","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_40","labels":["Gene"],"properties":{"name":"DQIEKSLKGEDDPINNPDLLGKHKKS\"","organism":"Flavobacteriaceae; Formosa.","type":"DQIEKSLKGEDDPINNPDLLGKHKKS\""},"type":"node"}
+{"end":{"id":"HG315671_40","labels":["Gene"]},"id":"HG315671_r_40","label":"NEXT","start":{"id":"HG315671_39","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_41","labels":["Gene"],"properties":{"name":"tRNA","organism":"Flavobacteriaceae; Formosa.","type":"tRNA"},"type":"node"}
+{"end":{"id":"HG315671_41","labels":["Gene"]},"id":"HG315671_r_41","label":"NEXT","start":{"id":"HG315671_40","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_42","labels":["Gene"],"properties":{"name":"/product=\"tRNA-Met-CAT\"","organism":"Flavobacteriaceae; Formosa.","type":"/product=\"tRNA-Met-CAT\""},"type":"node"}
+{"end":{"id":"HG315671_42","labels":["Gene"]},"id":"HG315671_r_42","label":"NEXT","start":{"id":"HG315671_41","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_43","labels":["Gene"],"properties":{"name":"CDS","organism":"Flavobacteriaceae; Formosa.","type":"CDS"},"type":"node"}
+{"end":{"id":"HG315671_43","labels":["Gene"]},"id":"HG315671_r_43","label":"NEXT","start":{"id":"HG315671_42","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_44","labels":["Gene"],"properties":{"name":"/codon_start=1","organism":"Flavobacteriaceae; Formosa.","type":"/codon_start=1"},"type":"node"}
+{"end":{"id":"HG315671_44","labels":["Gene"]},"id":"HG315671_r_44","label":"NEXT","start":{"id":"HG315671_43","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_45","labels":["Gene"],"properties":{"name":"/transl_table=11","organism":"Flavobacteriaceae; Formosa.","type":"/transl_table=11"},"type":"node"}
+{"end":{"id":"HG315671_45","labels":["Gene"]},"id":"HG315671_r_45","label":"NEXT","start":{"id":"HG315671_44","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_46","labels":["Gene"],"properties":{"name":"/locus_tag=\"BN863_30\"","organism":"Flavobacteriaceae; Formosa.","type":"/locus_tag=\"BN863_30\""},"type":"node"}
+{"end":{"id":"HG315671_46","labels":["Gene"]},"id":"HG315671_r_46","label":"NEXT","start":{"id":"HG315671_45","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_47","labels":["Gene"],"properties":{"name":"/product=\"conserved","organism":"Flavobacteriaceae; Formosa.","type":"/product=\"conserved"},"type":"node"}
+{"end":{"id":"HG315671_47","labels":["Gene"]},"id":"HG315671_r_47","label":"NEXT","start":{"id":"HG315671_46","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_48","labels":["Gene"],"properties":{"name":"/db_xref=\"EnsemblGenomes-Gn:BN863_30\"","organism":"Flavobacteriaceae; Formosa.","type":"/db_xref=\"EnsemblGenomes-Gn:BN863_30\""},"type":"node"}
+{"end":{"id":"HG315671_48","labels":["Gene"]},"id":"HG315671_r_48","label":"NEXT","start":{"id":"HG315671_47","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_49","labels":["Gene"],"properties":{"name":"/db_xref=\"EnsemblGenomes-Tr:CDF77715\"","organism":"Flavobacteriaceae; Formosa.","type":"/db_xref=\"EnsemblGenomes-Tr:CDF77715\""},"type":"node"}
+{"end":{"id":"HG315671_49","labels":["Gene"]},"id":"HG315671_r_49","label":"NEXT","start":{"id":"HG315671_48","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_50","labels":["Gene"],"properties":{"name":"/db_xref=\"InterPro:IPR032577\"","organism":"Flavobacteriaceae; Formosa.","type":"/db_xref=\"InterPro:IPR032577\""},"type":"node"}
+{"end":{"id":"HG315671_50","labels":["Gene"]},"id":"HG315671_r_50","label":"NEXT","start":{"id":"HG315671_49","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_51","labels":["Gene"],"properties":{"name":"/db_xref=\"UniProtKB/TrEMBL:T2KG84\"","organism":"Flavobacteriaceae; Formosa.","type":"/db_xref=\"UniProtKB/TrEMBL:T2KG84\""},"type":"node"}
+{"end":{"id":"HG315671_51","labels":["Gene"]},"id":"HG315671_r_51","label":"NEXT","start":{"id":"HG315671_50","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_52","labels":["Gene"],"properties":{"name":"/protein_id=\"CDF77715.1\"","organism":"Flavobacteriaceae; Formosa.","type":"/protein_id=\"CDF77715.1\""},"type":"node"}
+{"end":{"id":"HG315671_52","labels":["Gene"]},"id":"HG315671_r_52","label":"NEXT","start":{"id":"HG315671_51","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_53","labels":["Gene"],"properties":{"name":"/translation=\"MKKLIYLMVINVLIWSCDNKPKSVDASIIDDTTVAISYDSYGEKI","organism":"Flavobacteriaceae; Formosa.","type":"/translation=\"MKKLIYLMVINVLIWSCDNKPKSVDASIIDDTTVAISYDSYGEKI"},"type":"node"}
+{"end":{"id":"HG315671_53","labels":["Gene"]},"id":"HG315671_r_53","label":"NEXT","start":{"id":"HG315671_52","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_54","labels":["Gene"],"properties":{"name":"NDSDVLTSDAMMAHYKNLKLGDTISSKLKGKIVEVCPKTGCWMTLDVKGDKTVLVRFKD","organism":"Flavobacteriaceae; Formosa.","type":"NDSDVLTSDAMMAHYKNLKLGDTISSKLKGKIVEVCPKTGCWMTLDVKGDKTVLVRFKD"},"type":"node"}
+{"end":{"id":"HG315671_54","labels":["Gene"]},"id":"HG315671_r_54","label":"NEXT","start":{"id":"HG315671_53","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_55","labels":["Gene"],"properties":{"name":"YGFFMPLDAKGEAIVDGKAFVTETSVEELRHYAEDAGKSAEEIAAITMPKMQYRFEAEG","organism":"Flavobacteriaceae; Formosa.","type":"YGFFMPLDAKGEAIVDGKAFVTETSVEELRHYAEDAGKSAEEIAAITMPKMQYRFEAEG"},"type":"node"}
+{"end":{"id":"HG315671_55","labels":["Gene"]},"id":"HG315671_r_55","label":"NEXT","start":{"id":"HG315671_54","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_56","labels":["Gene"],"properties":{"name":"VLLIQ\"","organism":"Flavobacteriaceae; Formosa.","type":"VLLIQ\""},"type":"node"}
+{"end":{"id":"HG315671_56","labels":["Gene"]},"id":"HG315671_r_56","label":"NEXT","start":{"id":"HG315671_55","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_57","labels":["Gene"],"properties":{"name":"CDS","organism":"Flavobacteriaceae; Formosa.","type":"CDS"},"type":"node"}
+{"end":{"id":"HG315671_57","labels":["Gene"]},"id":"HG315671_r_57","label":"NEXT","start":{"id":"HG315671_56","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_58","labels":["Gene"],"properties":{"name":"/codon_start=1","organism":"Flavobacteriaceae; Formosa.","type":"/codon_start=1"},"type":"node"}
+{"end":{"id":"HG315671_58","labels":["Gene"]},"id":"HG315671_r_58","label":"NEXT","start":{"id":"HG315671_57","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_59","labels":["Gene"],"properties":{"name":"/transl_table=11","organism":"Flavobacteriaceae; Formosa.","type":"/transl_table=11"},"type":"node"}
+{"end":{"id":"HG315671_59","labels":["Gene"]},"id":"HG315671_r_59","label":"NEXT","start":{"id":"HG315671_58","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_60","labels":["Gene"],"properties":{"name":"/locus_tag=\"BN863_40\"","organism":"Flavobacteriaceae; Formosa.","type":"/locus_tag=\"BN863_40\""},"type":"node"}
+{"end":{"id":"HG315671_60","labels":["Gene"]},"id":"HG315671_r_60","label":"NEXT","start":{"id":"HG315671_59","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_61","labels":["Gene"],"properties":{"name":"/product=\"oxidoreductase","organism":"Flavobacteriaceae; Formosa.","type":"/product=\"oxidoreductase"},"type":"node"}
+{"end":{"id":"HG315671_61","labels":["Gene"]},"id":"HG315671_r_61","label":"NEXT","start":{"id":"HG315671_60","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_62","labels":["Gene"],"properties":{"name":"subgroup","organism":"Flavobacteriaceae; Formosa.","type":"subgroup"},"type":"node"}
+{"end":{"id":"HG315671_62","labels":["Gene"]},"id":"HG315671_r_62","label":"NEXT","start":{"id":"HG315671_61","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_63","labels":["Gene"],"properties":{"name":"/db_xref=\"EnsemblGenomes-Gn:BN863_40\"","organism":"Flavobacteriaceae; Formosa.","type":"/db_xref=\"EnsemblGenomes-Gn:BN863_40\""},"type":"node"}
+{"end":{"id":"HG315671_63","labels":["Gene"]},"id":"HG315671_r_63","label":"NEXT","start":{"id":"HG315671_62","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_64","labels":["Gene"],"properties":{"name":"/db_xref=\"EnsemblGenomes-Tr:CDF77716\"","organism":"Flavobacteriaceae; Formosa.","type":"/db_xref=\"EnsemblGenomes-Tr:CDF77716\""},"type":"node"}
+{"end":{"id":"HG315671_64","labels":["Gene"]},"id":"HG315671_r_64","label":"NEXT","start":{"id":"HG315671_63","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_65","labels":["Gene"],"properties":{"name":"/db_xref=\"GOA:T2KH37\"","organism":"Flavobacteriaceae; Formosa.","type":"/db_xref=\"GOA:T2KH37\""},"type":"node"}
+{"end":{"id":"HG315671_65","labels":["Gene"]},"id":"HG315671_r_65","label":"NEXT","start":{"id":"HG315671_64","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_66","labels":["Gene"],"properties":{"name":"/db_xref=\"InterPro:IPR018170\"","organism":"Flavobacteriaceae; Formosa.","type":"/db_xref=\"InterPro:IPR018170\""},"type":"node"}
+{"end":{"id":"HG315671_66","labels":["Gene"]},"id":"HG315671_r_66","label":"NEXT","start":{"id":"HG315671_65","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_67","labels":["Gene"],"properties":{"name":"/db_xref=\"InterPro:IPR020471\"","organism":"Flavobacteriaceae; Formosa.","type":"/db_xref=\"InterPro:IPR020471\""},"type":"node"}
+{"end":{"id":"HG315671_67","labels":["Gene"]},"id":"HG315671_r_67","label":"NEXT","start":{"id":"HG315671_66","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_68","labels":["Gene"],"properties":{"name":"/db_xref=\"InterPro:IPR023210\"","organism":"Flavobacteriaceae; Formosa.","type":"/db_xref=\"InterPro:IPR023210\""},"type":"node"}
+{"end":{"id":"HG315671_68","labels":["Gene"]},"id":"HG315671_r_68","label":"NEXT","start":{"id":"HG315671_67","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_69","labels":["Gene"],"properties":{"name":"/db_xref=\"InterPro:IPR036812\"","organism":"Flavobacteriaceae; Formosa.","type":"/db_xref=\"InterPro:IPR036812\""},"type":"node"}
+{"end":{"id":"HG315671_69","labels":["Gene"]},"id":"HG315671_r_69","label":"NEXT","start":{"id":"HG315671_68","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_70","labels":["Gene"],"properties":{"name":"/db_xref=\"UniProtKB/TrEMBL:T2KH37\"","organism":"Flavobacteriaceae; Formosa.","type":"/db_xref=\"UniProtKB/TrEMBL:T2KH37\""},"type":"node"}
+{"end":{"id":"HG315671_70","labels":["Gene"]},"id":"HG315671_r_70","label":"NEXT","start":{"id":"HG315671_69","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_71","labels":["Gene"],"properties":{"name":"/protein_id=\"CDF77716.1\"","organism":"Flavobacteriaceae; Formosa.","type":"/protein_id=\"CDF77716.1\""},"type":"node"}
+{"end":{"id":"HG315671_71","labels":["Gene"]},"id":"HG315671_r_71","label":"NEXT","start":{"id":"HG315671_70","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_72","labels":["Gene"],"properties":{"name":"/translation=\"MKTITLNDGNTTPQLGFGTYKSTEQEGIAAVKTAIKKGYRLIDTA","organism":"Flavobacteriaceae; Formosa.","type":"/translation=\"MKTITLNDGNTTPQLGFGTYKSTEQEGIAAVKTAIKKGYRLIDTA"},"type":"node"}
+{"end":{"id":"HG315671_72","labels":["Gene"]},"id":"HG315671_r_72","label":"NEXT","start":{"id":"HG315671_71","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_73","labels":["Gene"],"properties":{"name":"AAYGNEAEVGKGIKESGISRKELFVTTKLWRESLGYESTKIELEASLKRLDLEYIDLYL","organism":"Flavobacteriaceae; Formosa.","type":"AAYGNEAEVGKGIKESGISRKELFVTTKLWRESLGYESTKIELEASLKRLDLEYIDLYL"},"type":"node"}
+{"end":{"id":"HG315671_73","labels":["Gene"]},"id":"HG315671_r_73","label":"NEXT","start":{"id":"HG315671_72","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_74","labels":["Gene"],"properties":{"name":"IHWPANQKNYTNWKKTNAETWKAMEELQAEGKIKSIGVSNFFESHLDALLETAKVVPAV","organism":"Flavobacteriaceae; Formosa.","type":"IHWPANQKNYTNWKKTNAETWKAMEELQAEGKIKSIGVSNFFESHLDALLETAKVVPAV"},"type":"node"}
+{"end":{"id":"HG315671_74","labels":["Gene"]},"id":"HG315671_r_74","label":"NEXT","start":{"id":"HG315671_73","labels":["Gene"]},"type":"relationship"}
+{"id":"HG315671_75","labels":["Gene"],"properties":{"name":"NQIEFHPGYWQPELVGYCKSKNIAVESWSPLARGKVFDNPELKSIAEKHNKSVSQICLR","organism":"Flavobacteriaceae; Formosa.","type":"NQIEFHPGYWQPELVGYCKSKNIAVESWSPLARGKVFDNPELKSIAEKHNKSVSQICLR"},"type":"node"}
+{"end":{"id":"HG315671_75","labels":["Gene"]},"id":"HG315671_r_75","label":"NEXT","start":{"id":"HG315671_74","labels":["Gene"]},"type":"relationship"}

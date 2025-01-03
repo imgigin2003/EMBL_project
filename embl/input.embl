@@ -1,0 +1,245 @@
+
+ID   HG315671; SV 1; circular; genomic DNA; STD; PRO; 4228350 BP.
+XX
+AC   HG315671;
+XX
+PR   Project:PRJEB3965;
+XX
+DT   31-AUG-2013 (Rel. 118, Created)
+DT   22-JUN-2015 (Rel. 125, Last updated, Version 5)
+XX
+DE   Formosa agariphila KMM 3901, complete genome
+XX
+KW   complete genome.
+XX
+OS   Formosa agariphila KMM 3901
+OC   Bacteria; Bacteroidetes; Flavobacteriia; Flavobacteriales;
+OC   Flavobacteriaceae; Formosa.
+XX
+RN   [1]
+RP   1-4228350
+RA   Werner J.;
+RT   ;
+RL   Submitted (30-MAY-2013) to the INSDC.
+RL   Microbial Genomics Group, Max Planck Institute for Marine Microbiology,
+RL   Celsiusstrasse 1, Bremen, 28359, GERMANY.
+XX
+RN   [2]
+RX   DOI; 10.1128/AEM.01937-13.
+RX   PUBMED; 23995932.
+RA   Mann A.J., Hahnke R.L., Huang S., Werner J., Xing P., Barbeyron T.,
+RA   Huettel B., Stueber K., Reinhardt R., Harder J., Gloeckner F.O.,
+RA   Amann R.I., Teeling H.;
+RT   "The genome of the alga-associated marine flavobacterium Formosa agariphila
+RT   KMM 3901T reveals a broad potential for degradation of algal
+RT   polysaccharides";
+RL   Appl. Environ. Microbiol. 79(21):6813-6822(2013).
+XX
+DR   MD5; ab7f950441797299aed99a4ffd5e6068.
+DR   BioSample; SAMEA3139019.
+DR   EnsemblGenomes-Gn; EBG00000892430.
+DR   EnsemblGenomes-Gn; EBG00000892431.
+DR   EnsemblGenomes-Gn; EBG00000892432.
+DR   EnsemblGenomes-Gn; EBG00000892433.
+DR   EnsemblGenomes-Gn; EBG00000892434.
+DR   EnsemblGenomes-Gn; EBG00000892435.
+DR   EnsemblGenomes-Gn; EBG00000892436.
+DR   EnsemblGenomes-Gn; EBG00000892437.
+DR   EnsemblGenomes-Gn; EBG00000892438.
+DR   EnsemblGenomes-Gn; EBG00000892439.
+DR   EnsemblGenomes-Gn; EBG00000892440.
+DR   EnsemblGenomes-Gn; EBG00000892441.
+DR   EnsemblGenomes-Gn; EBG00000892442.
+DR   EnsemblGenomes-Gn; EBG00000892443.
+DR   EnsemblGenomes-Gn; EBG00000892444.
+DR   EnsemblGenomes-Gn; EBG00000892445.
+DR   EnsemblGenomes-Gn; EBG00000892446.
+DR   EnsemblGenomes-Gn; EBG00000892447.
+DR   EnsemblGenomes-Gn; EBG00000892448.
+DR   EnsemblGenomes-Gn; EBG00000892449.
+DR   EnsemblGenomes-Gn; EBG00000892450.
+DR   EnsemblGenomes-Gn; EBG00000892451.
+DR   EnsemblGenomes-Gn; EBG00000892452.
+DR   EnsemblGenomes-Gn; EBG00000892453.
+DR   EnsemblGenomes-Gn; EBG00000892454.
+DR   EnsemblGenomes-Gn; EBG00000892455.
+DR   EnsemblGenomes-Gn; EBG00000892456.
+DR   EnsemblGenomes-Gn; EBG00000892457.
+DR   EnsemblGenomes-Gn; EBG00000892458.
+DR   EnsemblGenomes-Gn; EBG00000892459.
+DR   EnsemblGenomes-Gn; EBG00000892460.
+DR   EnsemblGenomes-Gn; EBG00000892461.
+DR   EnsemblGenomes-Gn; EBG00000892462.
+DR   EnsemblGenomes-Gn; EBG00000892463.
+DR   EnsemblGenomes-Gn; EBG00000892464.
+DR   EnsemblGenomes-Gn; EBG00000892465.
+DR   EnsemblGenomes-Gn; EBG00000892466.
+DR   EnsemblGenomes-Gn; EBG00000892467.
+DR   EnsemblGenomes-Gn; EBG00000892468.
+DR   EnsemblGenomes-Gn; EBG00000892469.
+DR   EnsemblGenomes-Gn; EBG00000892470.
+DR   EnsemblGenomes-Gn; EBG00000892471.
+DR   EnsemblGenomes-Gn; EBG00000892472.
+DR   EnsemblGenomes-Gn; EBG00000892473.
+DR   EnsemblGenomes-Gn; EBG00000892474.
+DR   EnsemblGenomes-Gn; EBG00000892475.
+DR   EnsemblGenomes-Gn; EBG00000892476.
+DR   EnsemblGenomes-Gn; EBG00000892477.
+DR   EnsemblGenomes-Gn; EBG00000892478.
+DR   EnsemblGenomes-Gn; EBG00000892479.
+DR   EnsemblGenomes-Gn; EBG00000892480.
+DR   EnsemblGenomes-Gn; EBG00000892481.
+DR   EnsemblGenomes-Gn; EBG00000892482.
+DR   EnsemblGenomes-Gn; EBG00000892483.
+DR   EnsemblGenomes-Gn; EBG00000892484.
+DR   EnsemblGenomes-Gn; EBG00000892485.
+DR   EnsemblGenomes-Gn; EBG00000892486.
+DR   EnsemblGenomes-Gn; EBG00000892487.
+DR   EnsemblGenomes-Gn; EBG00000892488.
+DR   EnsemblGenomes-Gn; EBG00000892489.
+DR   EnsemblGenomes-Tr; EBG00000892430-1.
+DR   EnsemblGenomes-Tr; EBG00000892431-1.
+DR   EnsemblGenomes-Tr; EBG00000892432-1.
+DR   EnsemblGenomes-Tr; EBG00000892433-1.
+DR   EnsemblGenomes-Tr; EBG00000892434-1.
+DR   EnsemblGenomes-Tr; EBG00000892435-1.
+DR   EnsemblGenomes-Tr; EBG00000892436-1.
+DR   EnsemblGenomes-Tr; EBG00000892437-1.
+DR   EnsemblGenomes-Tr; EBG00000892438-1.
+DR   EnsemblGenomes-Tr; EBG00000892439-1.
+DR   EnsemblGenomes-Tr; EBG00000892440-1.
+DR   EnsemblGenomes-Tr; EBG00000892441-1.
+DR   EnsemblGenomes-Tr; EBG00000892442-1.
+DR   EnsemblGenomes-Tr; EBG00000892443-1.
+DR   EnsemblGenomes-Tr; EBG00000892444-1.
+DR   EnsemblGenomes-Tr; EBG00000892445-1.
+DR   EnsemblGenomes-Tr; EBG00000892446-1.
+DR   EnsemblGenomes-Tr; EBG00000892447-1.
+DR   EnsemblGenomes-Tr; EBG00000892448-1.
+DR   EnsemblGenomes-Tr; EBG00000892449-1.
+DR   EnsemblGenomes-Tr; EBG00000892450-1.
+DR   EnsemblGenomes-Tr; EBG00000892451-1.
+DR   EnsemblGenomes-Tr; EBG00000892452-1.
+DR   EnsemblGenomes-Tr; EBG00000892453-1.
+DR   EnsemblGenomes-Tr; EBG00000892454-1.
+DR   EnsemblGenomes-Tr; EBG00000892455-1.
+DR   EnsemblGenomes-Tr; EBG00000892456-1.
+DR   EnsemblGenomes-Tr; EBG00000892457-1.
+DR   EnsemblGenomes-Tr; EBG00000892458-1.
+DR   EnsemblGenomes-Tr; EBG00000892459-1.
+DR   EnsemblGenomes-Tr; EBG00000892460-1.
+DR   EnsemblGenomes-Tr; EBG00000892461-1.
+DR   EnsemblGenomes-Tr; EBG00000892462-1.
+DR   EnsemblGenomes-Tr; EBG00000892463-1.
+DR   EnsemblGenomes-Tr; EBG00000892464-1.
+DR   EnsemblGenomes-Tr; EBG00000892465-1.
+DR   EnsemblGenomes-Tr; EBG00000892466-1.
+DR   EnsemblGenomes-Tr; EBG00000892467-1.
+DR   EnsemblGenomes-Tr; EBG00000892468-1.
+DR   EnsemblGenomes-Tr; EBG00000892469-1.
+DR   EnsemblGenomes-Tr; EBG00000892470-1.
+DR   EnsemblGenomes-Tr; EBG00000892471-1.
+DR   EnsemblGenomes-Tr; EBG00000892472-1.
+DR   EnsemblGenomes-Tr; EBG00000892473-1.
+DR   EnsemblGenomes-Tr; EBG00000892474-1.
+DR   EnsemblGenomes-Tr; EBG00000892475-1.
+DR   EnsemblGenomes-Tr; EBG00000892476-1.
+DR   EnsemblGenomes-Tr; EBG00000892477-1.
+DR   EnsemblGenomes-Tr; EBG00000892478-1.
+DR   EnsemblGenomes-Tr; EBG00000892479-1.
+DR   EnsemblGenomes-Tr; EBG00000892480-1.
+DR   EnsemblGenomes-Tr; EBG00000892481-1.
+DR   EnsemblGenomes-Tr; EBG00000892482-1.
+DR   EnsemblGenomes-Tr; EBG00000892483-1.
+DR   EnsemblGenomes-Tr; EBG00000892484-1.
+DR   EnsemblGenomes-Tr; EBG00000892485-1.
+DR   EnsemblGenomes-Tr; EBG00000892486-1.
+DR   EnsemblGenomes-Tr; EBG00000892487-1.
+DR   EnsemblGenomes-Tr; EBG00000892488-1.
+DR   EnsemblGenomes-Tr; EBG00000892489-1.
+DR   EuropePMC; PMC3811500; 23995932.
+DR   EuropePMC; PMC5394322; 28213541.
+DR   SILVA-LSU; HG315671.
+DR   SILVA-SSU; HG315671.
+DR   StrainInfo; 300532; 1.
+DR   PubMed; 23995932.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..4228350
+FT                   /organism="Formosa agariphila KMM 3901"
+FT                   /strain="type strain: KMM 3901"
+FT                   /mol_type="genomic DNA"
+FT                   /db_xref="taxon:1347342"
+FT                   /culture_collection="KMM:3901"
+FT   CDS             complement(97..1302)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="BN863_10"
+FT                   /product="lipoprotein releasing system transmembrane
+FT                   protein lolC"
+FT                   /db_xref="EnsemblGenomes-Gn:BN863_10"
+FT                   /db_xref="EnsemblGenomes-Tr:CDF77713"
+FT                   /db_xref="GOA:T2KH40"
+FT                   /db_xref="UniProtKB/TrEMBL:T2KH40"
+FT                   /protein_id="CDF77713.1"
+FT                   /translation="MNFPLYIAKRYLRSKSSNNAINFITIIAAIGVILGAASLFIVLSG
+FT                   FSGLKVFTLQFSSIIDPDLKAVPKSGKSFMLSSSQFKAMNNLDGVASYSKIIEERVILA
+FT                   YDGKNFPAFIKGVDENYNQVNAIDSVIIQGSWLRPNTDQMVAGWGVSNHLSLGVLDYGK
+FT                   SVTIYVPKPGTGQITSTKSAFNAIHCVNVGLFDINESLNETYIYTAFEKSRELLSYKQN
+FT                   QVSALEFKLNPNIDEDLIKPQLQAILGESVLIKNRVQLNDALYKMLNTENLAVYLIFTL
+FT                   VLIIALFNVIGSIVMMILDKKKTLSTLYKLGASVKDIRRIFFFQGSLMSIFGGIVGLIL
+FT                   GLIIVGLQQAFSLVMITPSLPYPVAITIPNIIVVLLTISVLGIIASKIASVRISKSLIK
+FT                   TI"
+FT   CDS             complement(1304..1696)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="BN863_20"
+FT                   /product="ribosome-binding factor A"
+FT                   /db_xref="EnsemblGenomes-Gn:BN863_20"
+FT                   /db_xref="EnsemblGenomes-Tr:CDF77714"
+FT                   /db_xref="GOA:T2KIB0"
+FT                   /db_xref="InterPro:IPR000238"
+FT                   /db_xref="InterPro:IPR015946"
+FT                   /db_xref="InterPro:IPR023799"
+FT                   /db_xref="UniProtKB/TrEMBL:T2KIB0"
+FT                   /protein_id="CDF77714.1"
+FT                   /translation="MESNRQKKIGSVLQRDLVDVLQNAATQGGMKGILISVSKVNVTVD
+FT                   LSIAKVYLSIFPNDKAKELLVGIRSNTPLIRHELAQRTKHQLRRMPNLEFFVDDSLEYI
+FT                   DQIEKSLKGEDDPINNPDLLGKHKKS"
+FT   tRNA            1905..1978
+FT                   /product="tRNA-Met-CAT"
+FT   CDS             complement(2084..2590)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="BN863_30"
+FT                   /product="conserved hypothetical protein"
+FT                   /db_xref="EnsemblGenomes-Gn:BN863_30"
+FT                   /db_xref="EnsemblGenomes-Tr:CDF77715"
+FT                   /db_xref="InterPro:IPR032577"
+FT                   /db_xref="UniProtKB/TrEMBL:T2KG84"
+FT                   /protein_id="CDF77715.1"
+FT                   /translation="MKKLIYLMVINVLIWSCDNKPKSVDASIIDDTTVAISYDSYGEKI
+FT                   NDSDVLTSDAMMAHYKNLKLGDTISSKLKGKIVEVCPKTGCWMTLDVKGDKTVLVRFKD
+FT                   YGFFMPLDAKGEAIVDGKAFVTETSVEELRHYAEDAGKSAEEIAAITMPKMQYRFEAEG
+FT                   VLLIQ"
+FT   CDS             complement(2722..3564)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="BN863_40"
+FT                   /product="oxidoreductase of aldo/keto reductase family,
+FT                   subgroup 1"
+FT                   /db_xref="EnsemblGenomes-Gn:BN863_40"
+FT                   /db_xref="EnsemblGenomes-Tr:CDF77716"
+FT                   /db_xref="GOA:T2KH37"
+FT                   /db_xref="InterPro:IPR018170"
+FT                   /db_xref="InterPro:IPR020471"
+FT                   /db_xref="InterPro:IPR023210"
+FT                   /db_xref="InterPro:IPR036812"
+FT                   /db_xref="UniProtKB/TrEMBL:T2KH37"
+FT                   /protein_id="CDF77716.1"
+FT                   /translation="MKTITLNDGNTTPQLGFGTYKSTEQEGIAAVKTAIKKGYRLIDTA
+FT                   AAYGNEAEVGKGIKESGISRKELFVTTKLWRESLGYESTKIELEASLKRLDLEYIDLYL
+FT                   IHWPANQKNYTNWKKTNAETWKAMEELQAEGKIKSIGVSNFFESHLDALLETAKVVPAV
+FT                   NQIEFHPGYWQPELVGYCKSKNIAVESWSPLARGKVFDNPELKSIAEKHNKSVSQICLR
+FT                   WILQHQAIVIPKSSNPDRIAENIDVFDFELSNTDMELINTLPEFGFSGELPDMWPDKS"
